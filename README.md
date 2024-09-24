@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tavishijain3-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tavishi-jainn/)
 [![Email](https://img.shields.io/badge/Email-tavishehehe@gmail.com-red?style=flat&logo=gmail)](mailto:tavishehehe@gmail.com)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=6D28D9&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+from+India;Machine+Learning+%26+Deep+Learning+Enthusiast;Open+Source+Contributor;Let's+Connect!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=6D28D9&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+%26+Deep+Learning+Enthusiast;Open+Source+Contributor;Let's+Connect!)
 
 ---
 
