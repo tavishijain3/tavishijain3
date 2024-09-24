@@ -65,12 +65,6 @@ A predictive model developed to forecast stock prices using historical data, lev
 
 ---
 
-## 🌍 Where Are My Visitors From?
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tavishijain3.visitor-badge&left_color=blue&right_color=purple)
-
----
-
 ## 📬 Let's Connect!
 
 Feel free to reach out if you’d like to collaborate, discuss data science, or simply chat!  
