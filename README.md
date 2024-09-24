@@ -1,65 +1,81 @@
-# 🌟 Hello, I'm Tavishi Jain! 🌟
+# 🌟 Welcome, I'm Tavishi Jain! 🌟
 
-👩‍💻 **Aspiring Data Scientist | Machine Learning Enthusiast | Open Source Contributor**
+[![Profile Views](https://komarev.com/ghpvc/?username=tavishijain3&label=PROFILE+VIEWS&color=brightgreen)](https://github.com/tavishijain3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tavishijain3-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tavishi-jainn/)
+[![Email](https://img.shields.io/badge/Email-tavishehehe@gmail.com-red?style=flat&logo=gmail)](mailto:tavishehehe@gmail.com)
 
-Welcome to my GitHub profile! I'm passionate about harnessing the power of data to drive insights and innovation. With a strong foundation in Python, Machine Learning, SQL, and C++, I'm dedicated to exploring the depths of data science and contributing to impactful projects.
-
----
-
-## 🛠 Skills
-
-- **Programming Languages**: 
-  - Python
-  - C++
-  
-- **Technologies**: 
-  - Machine Learning (ML)
-  - SQL
-
-- **Interests**: 
-  - Deep Learning (DL)
-  - Data Science
-  - Contributing to Open Source Projects
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=6D28D9&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+from+India;Machine+Learning+%26+Deep+Learning+Enthusiast;Open+Source+Contributor;Let's+Connect!)
 
 ---
 
-## 🌐 Projects
+## 🚀 About Me
 
-Here are some of the projects I've worked on:
-
-- [Breast Cancer Data Analysis and Prediction](https://github.com/tavishijain3/Breast-Cancer-Data-Analysis-and-Prediction): An in-depth exploration of breast cancer data with predictive modeling techniques.
-  
-- [Swish Software](https://github.com/tavishijain3/swish_software): A comprehensive software project focusing on [brief description of the project].
-  
-- [Stock Price Prediction Model](https://github.com/tavishijain3/stock-price-prediction-model): A predictive model using historical stock data to forecast future prices.
+Hi, I'm **Tavishi Jain**, a passionate data science enthusiast focused on unlocking the potential of **Machine Learning (ML)** and **Deep Learning (DL)** to solve real-world problems. With expertise in **AI**, **data analytics**, and predictive modeling, I love transforming raw data into actionable insights. Exploring AI's cutting edge while contributing to open-source projects fuels my work!
 
 ---
 
-## 📈 Let's Connect!
+## 🧰 Skills and Technologies
 
-- **LinkedIn**: [Tavishi Jain](https://www.linkedin.com/in/tavishi-jainn/)
-- **Email**: [tavishehehe@gmail.com](mailto:tavishehehe@gmail.com)
-
----
-
-## 💡 Why Data Science?
-
-Data Science is not just a field; it's a journey of discovery. I thrive on transforming raw data into meaningful insights that can influence decisions and drive progress. As I continue to explore this dynamic field, I am excited to contribute to open-source projects and collaborate with others who share the same passion.
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-5C2D91?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 🎨 Visual Elements
+## 🌟 Featured Projects
 
-![Data Science](https://your-image-link.com/data-science.jpg)
+### 🔬 [Breast Cancer Data Analysis and Prediction](https://github.com/tavishijain3/Breast-Cancer-Data-Analysis-and-Prediction)
+An in-depth exploratory data analysis (EDA) and predictive modeling project focused on using machine learning to predict breast cancer outcomes based on real-world datasets.
 
-*Feel free to replace the image link with an actual image related to your work or interests.*
+### 🔐 [Swish Software](https://github.com/tavishijain3/swish_software)
+**Swish** is a smart extension that recognizes users when they attempt to log into their accounts. Only registered users can access accounts via face recognition, which is verified every time. There’s also a PIN option, so users don’t have to log out, ensuring data safety while providing seamless access.
+
+### 📈 [Stock Price Prediction Model](https://github.com/tavishijain3/stock-price-prediction-model)
+A predictive model developed to forecast stock prices using historical data, leveraging machine learning models for accuracy in financial forecasting.
 
 ---
 
-## 🤝 Contributions Welcome!
+## 📊 GitHub Stats
 
-I believe in the power of collaboration. If you’re interested in collaborating or have any suggestions for improvement, please feel free to reach out!
+[![Tavishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavishijain3&show_icons=true&theme=radical)](https://github.com/tavishijain3)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavishijain3&layout=compact&theme=radical)](https://github.com/tavishijain3)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=tavishijain3&theme=gruvbox&no-frame=true&margin-w=15)](https://github.com/tavishijain3)
 
 ---
 
+## 🎯 Current Interests
+
+- 🔥 **Deep Learning** and AI-powered solutions
+- 📊 Data Science and Predictive Analytics
+- 🌍 **Open Source Contributions** in the AI/Data Science community
+
+---
+
+## 💬 Fun Facts and Quotes
+
+> _"Data is a precious thing and will last longer than the systems themselves."_  
+> – Tim Berners-Lee
+
+- 🌱 Always learning something new in the world of AI and data science.
+- 🎨 Fun Fact: I love turning complex datasets into insightful, visually appealing analyses.
+
+---
+
+## 🌍 Where Are My Visitors From?
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tavishijain3.visitor-badge&left_color=blue&right_color=purple)
+
+---
+
+## 📬 Let's Connect!
+
+Feel free to reach out if you’d like to collaborate, discuss data science, or simply chat!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tavishijain3-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tavishi-jainn/) 
+[![Email](https://img.shields.io/badge/Email-tavishehehe@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tavishehehe@gmail.com)
+
+---
 
