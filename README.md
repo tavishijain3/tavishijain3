@@ -1,4 +1,4 @@
-# 🌟 Welcome, I'm Tavishi Jain! 🌟
+# Tavishi Jain 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tavishijain3&label=PROFILE+VIEWS&color=brightgreen)](https://github.com/tavishijain3) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tavishijain3-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tavishi-jainn/)
